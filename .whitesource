@@ -13,5 +13,6 @@
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
-  "enableRenovate":"true"
+  "enableRenovate":"true",
+  "extends":[]
 }
